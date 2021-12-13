@@ -1,6 +1,10 @@
 --[[
 	Made by Max B
 	    V1.1a
+	LICENSE 2021-2022
+    	+ No stealing credits of script
+    	+ No reuploading script without credits
+   	+ No selling script
 ]]
 
 local RacistDuck = {}
